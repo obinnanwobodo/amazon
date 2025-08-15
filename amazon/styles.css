@@ -1,0 +1,119 @@
+.genamz{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-family: system-ui;
+background-color: whitesmoke     ;
+color: hsl(34, 97%, 48%);
+height: 130vw;
+}
+
+.wrapper{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+position: relative;
+bottom: 80px;
+}
+
+
+.genamz h1{
+    font-size: 50px;
+}
+
+.genamz h2{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+
+.img1 img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+.easy{
+font-size: 40px;
+
+}
+
+.easyndli li{
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 120px;
+   padding-bottom: 10px;
+   color: black;
+   font-weight: 500;
+}
+
+.btn1{
+    position: relative;
+    top: 20px;
+    background-color: #f08804;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+border-radius: 10px;
+}
+
+.btn1 a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.img2{
+    display: flex;
+    position: relative;
+    top: 50px;
+    
+}
+
+.img2 img{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+.little{
+   display: flex;
+    position: relative;
+    top: 50px;
+    font-size: 10px;
+    color: green;
+ 
+}
+
+.miss{
+    display: flex;
+    position: relative;
+    top: 50px;
+}
+
+.btn2{
+    display: flex;
+    position: relative;
+    top: 50px;
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+border-radius: 10px;
+}
+
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
